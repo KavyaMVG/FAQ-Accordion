@@ -1,3 +1,3 @@
 # Accordion
 
-![Project Demo](./Project_1.png)
+![Project Demo](./image/Project_1.png)
